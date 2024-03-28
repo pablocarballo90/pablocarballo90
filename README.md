@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b76112xafktawkhdd91l49w6c04l5qnun885ubl78gcn1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="100" />
   <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif?cid=790b76112xafktawkhdd91l49w6c04l5qnun885ubl78gcn1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="100" />
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"><a href="https://www.linkedin.com/in/pablo-xavier-carballo-soria/" /></img>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"><a href="https://twitter.com/PabloXaCarballo" /></img>
 </div>
