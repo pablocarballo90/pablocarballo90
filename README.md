@@ -16,9 +16,24 @@
 
 ### About Me
 
-- Python Back-end Engineer with 10+ years of professional experience
-- 
+- Python Back-end Engineer with 9+ years of professional experience
+- Experience with ERP systems and Automation Development.
+- Product-Oriented, proactive, disciplined and good mediator
+- :running_man: A running lover, looking to prepare for half-marathons
 - 📫 How to reach me: pablocarballo27@gmail.com
+
+### :writing_hand: Publications
+
+- Thesis Paper for Bachelor's Degree in Computer Science: <a href="https://ieeexplore.ieee.org/document/8625203">A Biased Random-Key Genetic Algorithm for Regression Test Case Prioritization</a>
+- <a href="https://www.octobot.io/blog/clean-python-code/">Octobot Blog Post - Clean Code in Python</a>
+- <a href="https://www.octobot.io/blog/clean-code-technical-debt-and-documentation-in-python-part-2/" >Octobot Blog Post - Clean Code in Python, part 2</a>
+- <a href="https://www.octobot.io/blog/automated-testing-applied/">Octobot Blog Post - Automated Testing Applied</a>
+- <a href="https://www.octobot.io/blog/specification-by-example/" >Octobot Blog Post - Specification By Example, part 1</a>
+- <a href="https://www.octobot.io/blog/gherkin-specification-by-example/" >Octobot Blog Post - Specification By Example, part 2</a>
+
+### :man_teacher: Tech Talks
+
+- <a href="https://www.youtube.com/watch?v=wDoow7OFERA&t=1s" >SBE & GHERKIN - Montevideo Web Developers Meetup (Content in Spanish)</a>
 
 <!--
 **pablocarballo90/pablocarballo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
