@@ -19,7 +19,7 @@
 - Python Back-end Engineer with 9+ years of professional experience
 - Experience with ERP systems and Automation Development
 - Product-Oriented, proactive, disciplined and good mediator
-- 🔭 I’m currently working on a Engineering leadership role at a software factory, helping the organization to provide technical guidance
+- 🔭 I’m currently working on an Engineering leadership role at a software factory, helping the organization to provide technical guidance
 - :running_man: A running lover, looking to prepare for half-marathons
 - 📫 How to reach me: pablocarballo27@gmail.com
 
