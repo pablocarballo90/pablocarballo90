@@ -14,7 +14,7 @@
   </a>
 </div>
 
-### About Me
+### :information_source: About Me
 
 - Python Back-end Engineer with 9+ years of professional experience
 - Experience with ERP systems and Automation Development.
